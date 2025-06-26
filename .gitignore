@@ -1,0 +1,5 @@
+tags
+*.pyc
+*.sif
+.ipynb_checkpoints/
+__pychache__/

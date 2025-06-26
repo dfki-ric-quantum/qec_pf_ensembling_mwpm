@@ -1,0 +1,6 @@
+stim==1.14.0
+PyMatching==2.2.1
+numpy
+pandas
+absl-py
+scipy
