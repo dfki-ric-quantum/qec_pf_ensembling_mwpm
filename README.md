@@ -56,8 +56,8 @@ uniform_bitflip.py:
     (default: '8')
     (an integer)
 ```
-Each run will produce a `*.csv` file in `results/` that can be consumed by the result processing in
-**TODO**.
+Each run will produce a `*.csv` file in `results/` that can be consumed by the post processing setup
+found [here](https://github.com/dfki-ric-quantum/qec_pf_post_processing).
 
 The experiments with non-uniform bit-flip noise and the toric code can be reproduced with
 `nonuniform_bitflip.py`:
