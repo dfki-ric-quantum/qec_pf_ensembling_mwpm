@@ -12,8 +12,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-The code supports two types of experiments from [1]. **Note:** Both, the optimization and the
-simulation of ensembling MWPM will take several hours to run on a typical desktop/laptop CPU.
+The code supports two types of experiments from [1].
+
+**Note:** Both, the optimization and the simulation of ensembling MWPM will take several hours to
+run on a typical desktop/laptop CPU.
 
 ### Optimization of perturbation standard deviation
 
